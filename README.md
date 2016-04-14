@@ -58,9 +58,9 @@ foreach($results as $post) {
 
 	echo '<a href="">'.$post['id'].'. '.$post['title'].'</a><br>';
 }
-```
 
 echo '<hr>';
+```
 
 ###7. On construit la liste des liens de pagination
 ```
